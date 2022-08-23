@@ -1,0 +1,35 @@
+[
+    {
+        "image": "../img/real-estate-investing-guide-for-teens.jpg",
+        "title":"Real Estate Investing Guide for Teens",
+        "caption": "Are you looking forward to getting your hands in real estate investing in 2023? Then it is better if you can evaluate both pros and cons associated with it.",
+        "type": "image",
+        "source_type": "link",
+        "source_link": "../Articles/real-estate-investing-guide-for-teens.html",
+        "category": "Real Estate"
+
+    
+    },
+    {
+        "image": "../img/pros-and-cons-of-real-estate-investing-in-2023.jpg",
+        "title":"Pros and Cons of Real Estate Investing in 2023",
+        "caption": "Are you looking forward to getting your hands in real estate investing in 2023? Then it is better if you can evaluate both pros and cons associated with it.",
+        "type": "image",
+        "source_type": "link",
+        "source_link": "../Articles/pros-and-cons-of-real-estate-investing-in-2023.html",
+        "category": "Real Estate"
+
+    
+    },
+    {
+        "image": "../img/best_paying_jobs_in_real_estate_investment_trusts.jpg",
+        "title":"Best paying jobs in real estate investment trusts",
+        "caption":  "According to our latest research, these are the highest paying real estate investment trust jobs:",
+        "type": "image",
+        "source_type": "link",
+        "source_link": "../Articles/best_paying_jobs_in_real_estate_investment_trusts.html",
+        "category": "Education"
+
+    
+    }
+]

@@ -1,0 +1,24 @@
+[ {
+    "image": "../img/should_you_invest_in_nft.png",
+    "title":"Should You Invest in NFT? (Deep Dive on the Risks in 2023)",
+    "caption":  "There are now some intriguing stocks available on the market.",
+    "type": "image",
+    "source_type": "link",
+    "source_link": "../Articles/should_you_invest_in_nft.html",
+    "category": "Crypto/NFT"
+
+
+},
+    {
+        "image":"../img/should_you_invest_in_crypto.jpg",
+        "title":"Should You Invest in Crypto? (Deep Dive on the Risks in 2022)",
+        "caption": "Cryptocurrencies are digital or virtual tokens that use cryptography to secure their transactions and to control the creation of new units of currency.",
+        "type": "image",
+        "source_type": "link",
+        "source_link": "../Articles/should_you_invest_in_crypto.html",
+        "category": "Crypto/NFT"
+
+    
+    }
+    
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "image": "../img/the_have_fun_and_make_milions.webp",
+        "title":"THEY HAVE FUN AND MAKE MILLIONS: These are the richest gamers",
+        "caption": "Top-earning gamers are more influential than elite athletes. They earn millions using the fact that millions follow them on social platforms, with the help of which they make various sponsorships.",
+        "type": "image",
+        "source_type": "link",
+        "source_link": "../Articles/they_have_fun_and_make_milions.html",
+        "alt":"THEY HAVE FUN AND MAKE MILLIONS",
+        "category": "Gaming"
+
+    
+    },
+    {
+        "image": "../img/top_8_ways_to_make_money_playing_vide_games.webp",
+        "title":"Top 8 ways to make money playing video games",
+        "caption": "Experts on making money online say that we can't make money playing video games. Professional players know that they can earn big money in tournaments, similar to professional sports.",
+        "type": "image",
+        "source_type": "link",
+        "source_link": "../Articles/top_8_ways_to_make_money_playing_video_games.html",
+        "alt":"Top 8 ways to make money playing video games",
+        "category": "Gaming"
+
+    
+    }
+    
+]

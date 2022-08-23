@@ -1,0 +1,44 @@
+[
+    {
+        "image": "../img/7_proven_tips_on_how_to_become_a_sucessful_blogger_2022.jpg",
+        "title":"7 (Proven) Tips on How to Become a Successful Blogger in 2022.",
+        "caption": "Being a blogger is easy, the only thing you need is to create a blog and start writing. It couldn't be simpler right? But have you wondered how to become a successful blogger?",
+        "type": "image",
+        "source_type": "link",
+        "source_link": "./assets/Articles/7_proven_tips_on_how_to_become_a_succesful_blogger_2022.html",
+        "alt":" Tips on How to Become a Successful Blogger in 2022",
+        "category": "Online Business"
+
+    
+    },
+    {
+        "image": "../img/AdSense_is_it_worth_it.png",
+        "title":"The easiest way to monetize in 2022.",
+        "caption": "Adsense is a program that allows you to display ads on your YouTube channel, blog, or social networks and earn money when someone clicks on one of the ads displayed on your media.",
+        "type": "image",
+        "source_type": "link",
+        "source_link": "./assets/Articles/AdSense is it worth it.html",
+        "alt":"The easiest way to monetize in 2022.",
+        "category": "Online Business"
+
+    
+    },
+  
+ 
+    {
+        "image": "../img/how_to_start_a_sucesfull_blog.jpeg",
+        "title":"How to start a successful blog?",
+        "caption": "If you want to share your views on the world, skills, and knowledge with the whole world while earning money then blogging on the Internet is the perfect place for you. ",
+        "type": "image",
+        "source_type": "link",
+        "source_link": "./assets/Articles/How to start a successful blog.html",
+        "alt":"How to start a successful blog?",
+        "category": "Online Business"
+
+    
+    }
+  
+  
+  
+    
+]

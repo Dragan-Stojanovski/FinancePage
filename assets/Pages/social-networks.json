@@ -1,0 +1,63 @@
+[
+    {
+        "image": "../img/linkedin_profile_tips_for_job_seekers.jpg",
+        "title":"LinkedIn Profile Tips For Job Seekers",
+        "caption": "We will now move on to LinkedIn profile tips for job seekers that will be presenting yourself on LinkedIn:",
+        "type": "image",
+        "source_type": "link",
+        "source_link": "../Articles/Linkedin_In_tips_for_jobseekers.html",
+        "alt":"LinkedIn Profile Tips For Job Seekers",
+        "category": "Social Networks"
+
+    
+    },
+    {
+        "image": "../img/youtube_earnings.jpg",
+        "title":"YouTube Earnings (EVERYTHING YOU NEED TO KNOW)",
+        "caption": "I would like to encourage all those who want to deal with YouTube through this text and motivate them through my example.",
+        "type": "image",
+        "source_type": "link",
+        "source_link": "../Articles/youtube_earnings_everything_you_need_to_know.html",
+        "alt":"YouTube Earnings",
+        "category": "Social Networks"
+
+    
+    },
+    {
+        "image": "../img/richest_youtubers_2022.jpg",
+        "title":"World's Richest YouTubers in 2022",
+        "caption": "Most stars from the past decade have come from YouTube, but just how much do the biggest YouTubers make today?",
+        "type": "image",
+        "source_type": "link",
+        "source_link": "../Articles/worlds_richest_youtubers_in_2022.html",
+        "alt":"World's Richest YouTubers in 2022",
+        "category": "Social Networks"
+
+    
+    },
+    {
+        "image": "img/tik_tok_7advices.webp",
+        "title":"How to go viral on TikTok in 2022(9 Proven ways to go viral)",
+        "caption": "TikTok is the social network that has grown tremendously during the Covid-19 crisis. Everyone can't stop talking about TikTok in 2022. ",
+        "type": "image",
+        "source_type": "link",
+        "source_link": "../Articles/How to get viral on tiktok.html",
+        "alt":"How to go viral on TikTok in 2022",
+        "category": "Social Networks"
+
+    
+    },
+    {
+        "image": "img/how_to_get_youtube_views_in_2022.webp",
+        "title":"How to Get YouTube Views in 2022(Basics)",
+        "caption": "YouTube is one of the most powerful tools for every marketing expert. Due to the covid-19 crisis, all online platforms are significantly increasing their popularity, so YouTube experienced its BOOM in 2022.  ",
+        "type": "image",
+        "source_type": "link",
+        "source_link": "../Articles/How to Get YouTube Views in 2022.html",
+        "alt":"How to Get YouTube Views in 2022(Basics)",
+        "category": "Social Networks"
+
+    
+    }
+    
+]

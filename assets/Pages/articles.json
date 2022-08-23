@@ -1,0 +1,54 @@
+[
+    {
+        "image": "../img/the_art_of_seo_mastering_search_engine_optimization.jpg",
+        "title":"In Our Blog Dedicated To Earning online is giving you knowledge that can be monetize on internet.",
+        "caption": "  Simply put, you want to be first on Google, or at least among the first. For this to happen, you must: ",
+        "type": "image",
+        "source_type": "link",
+        "source_link": "../Articles/the_art_of_seo_mastering_search_engine_optimization.html",
+        "alt":"The art of seo mastering search engine optimization",
+        "category": "Online Business"
+
+    
+    },
+    {
+        "image": "../img/Guide_to_working_from_home_online.jpeg",
+        "title":"Complete guide to working from home online(5 Proven Tips).",
+        "caption": "Introduction to working from home and giving you 5 proven tips to maximize your productivity.",
+        "type": "image",
+        "source_type": "link",
+        "source_link": "../Articles/Guide to working from home online.html",
+        "alt":"Complete guide to working from home online",
+     
+        "category": "Digital Education"
+
+    
+    },
+    {
+        "image": "../img/make_money_without_investment.jpeg",
+        "title":"How to make money on the Internet without an initial investment",
+        "caption": "If you want to earn money online, read this blog post, where we will present 6 ways to earn money online without initial investment!",
+        "type": "image",
+        "source_type": "link",
+        "source_link": "../Articles/how_to_make_money_on_the_internet_without_an_initial_investment.html",
+        "alt":"How to make money on the Internet without an initial investment",
+        "category": "Online Business"
+
+    
+    },
+    {
+        "image": "../img/how_to_negotiate_a_salary_increase.jpg",
+        "title":"Think it's time for a raise? Here's how to negotiate a salary increase.",
+        "caption": "You have been part of the company's team for some time, you are hardworking, you have good results and you think it is time for a salary increase.",
+        "type": "image",
+        "source_type": "link",
+        "source_link": "../Articles/how_to_negotiate_a_salary_increase.html",
+        "alt":" Here's how to negotiate a salary increase.",
+        "category": "Online Business"
+
+    
+    }
+    
+   
+    
+]

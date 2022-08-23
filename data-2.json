@@ -1,0 +1,39 @@
+[
+    {
+        "image": "./assets/img/best_paying_jobs_in_real_estate_investment_trusts.jpg",
+        "title":"Best paying jobs in real estate investment trusts",
+        "caption": "With gas prices reaching record highs, you may be looking for ways to save money at the pump and the new BP rewards card does",
+        "type": "image",
+        "source_type": "link",
+        "source_link": "./assets/Articles/best_paying_jobs_in_real_estate_investment_trusts.html",
+        "category": "Real Estate"
+
+    
+    },
+    {
+        "image":"./assets/img/should_you_invest_in_crypto.jpg",
+        "title":"Should You Invest in Crypto? (Deep Dive on the Risks in 2022)",
+        "caption": "Cryptocurrencies are digital or virtual tokens that use cryptography to secure their transactions and to control the creation of new units of currency.",
+        "type": "image",
+        "source_type": "link",
+        "source_link": "./assets/Articles/should_you_invest_in_crypto.html",
+        "category": "Crypto/NFT"
+
+    
+    },
+    {
+        "image": "./assets/img/how_to_wiesly_invest_50k.jpg",
+        "title":"How to Wisely Invest $50K",
+        "caption": "Think about how much you would be paid for each share. There are many things you can do if investing 50k is your target.",
+        "type": "image",
+        "source_type": "link",
+        "source_link": "./assets/Articles/how_to_wiesly_invest_50k.html",
+        "category": "Blogging"
+
+    
+    }
+  
+  
+  
+    
+]
