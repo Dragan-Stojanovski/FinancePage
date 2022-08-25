@@ -435,7 +435,8 @@ let stocks=[
      direct:"./assets/Articles/7-things-you-need-to-know-before-you-start-investing-in-stocks.html"},
 	 {title:"7-stocks-that-will-make-you-milionaire-in-2023",
      direct:"./assets/Articles/7-software-stocks-that-will-make-you-milionaire-in-2023.html"},
-	
+	 {title:"6 Best Retail Stocks to Buy During This Inflationary Environment",
+     direct:"./assets/Articles/6-best-retail-stocks-to-buy-during-this-infationary-enviroment.html"},
 	
 ]
 
