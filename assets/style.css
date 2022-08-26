@@ -848,6 +848,7 @@ font-size:20px;
 .post-content li{
   font-size:20px;
   line-height:27px;
+  font-family:var(--font-primary);
 }
 /*Bottom Post*/
 .posts-relative{
