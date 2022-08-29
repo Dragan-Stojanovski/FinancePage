@@ -1,5 +1,17 @@
 [
     {
+        "image": "../img/best_ways_to_make_profit_online.jpg",
+        "title":"Best Ways to Make Profit Online",
+        "caption": "There are many ways to earn online profit that an earning startup can do but one of them is ",
+        "type": "image",
+        "source_type": "link",
+        "source_link": "../Articles/best_ways_to_make_profit_online.html",
+        "alt":"best_ways_to_make_profit_online.html",
+        "category": "Online Business"
+
+    
+    },
+    {
         "image": "../img/the_art_of_seo_mastering_search_engine_optimization.jpg",
         "title":"The art of SEO",
         "caption": "  Simply put, you want to be first on Google, or at least among the first. For this to happen, you must: ",
