@@ -230,7 +230,7 @@ loadMoreBtn2.addEventListener('click', function() {
     }
 })
 
-
+/*
 var mainContainer3 = document.querySelector(".main-container-3");
 
 let cards3 = []
@@ -273,7 +273,7 @@ fetch("data-3.json")
 })
 
 
-
+*/
 
 
 
