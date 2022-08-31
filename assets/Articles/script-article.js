@@ -159,6 +159,8 @@ li.classList.add("linksNav")
 
 
 let realEstate=[
+	{title:"Best States to Invest in Real Estate",
+     direct:"best_states_to_invest_in_real_estate.html"},
 	{title:"Best Paying Jobs In Real Estate Trusts",
      direct:"best_paying_jobs_in_real_estate_investment_trusts.html"},
 	 {title:"Pros and Cons of Real Estate Investing in 2023",
