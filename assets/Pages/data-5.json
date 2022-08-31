@@ -1,5 +1,16 @@
 [
     {
+        "image": "../img/should_you_buy_tesla_stocks.jpg",
+        "title":"Should You Buy Tesla Stock?",
+        "caption":  "The automaker has considerably increased the rate at which it produces the vehicle.",
+        "type": "image",
+        "source_type": "link",
+        "source_link": "../Articles/should_you_buy_tesla_stock.html",
+        "category": "Stocks"
+
+    
+    },
+    {
         "image": "../img/6_best_retail_stocks_to_buy_during_this_infationary_environment.jpg",
         "title":"6 Best Retail Stocks to Buy During This Inflationary Environment",
         "caption":  "The names that have been listed stand out as outstanding candidates for a variety of reasons. To begin,",

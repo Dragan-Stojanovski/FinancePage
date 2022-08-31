@@ -550,6 +550,8 @@ li.classList.add("linksNav")
 
 
 let stocks=[
+    {title:"Should You Buy Tesla Stock?",
+	direct:"../Articles/should_you_buy_tesla_stock.html"},
 	{title:"7 Things you absolutely need to know before you Start Investing in Stocks",
      direct:"../Articles/7-things-you-need-to-know-before-you-start-investing-in-stocks.html"},
 	 {title:"7-stocks-that-will-make-you-milionaire-in-2023",

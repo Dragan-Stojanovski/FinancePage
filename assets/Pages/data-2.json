@@ -1,12 +1,23 @@
 [
     {
+        "image": "../img/10_advices_that_i_would_give_to_my_younger_self.jpg",
+        "title":"10 Pieces of Investment Advice That I Would Give to My Younger Self",
+        "caption": "The following advice is from finance advisor who has been in your shoes and knows what it's like.",
+        "type": "image",
+        "source_type": "link",
+        "source_link": "../Articles/10_pieces_of_investment_advice_that_i_would_give_to_my_younger_self.html",
+        "category": "Personal Finance"
+
+    
+    },
+    {
         "image": "../img/finance_plan_in_5_eazy_steps.jpg",
         "title":"How to Make a Financial Plan in 5 Easy Steps",
         "caption": "Having one may be an extremely helpful tool for individuals who wish to enhance their overall financial health and stability.",
         "type": "image",
         "source_type": "link",
         "source_link": "../Articles/how_to_make_a_financial_plan_in_5_eazy_steps.html",
-        "category": "Blogging"
+        "category":"Personal Finance"
 
     
     },
@@ -17,7 +28,7 @@
         "type": "image",
         "source_type": "link",
         "source_link": "../Articles/how_to_wiesly_invest_50k.html",
-        "category": "Blogging"
+        "category": "Personal Finance"
 
     
     }
