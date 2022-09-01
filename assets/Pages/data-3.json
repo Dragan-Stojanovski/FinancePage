@@ -1,4 +1,16 @@
-[ {
+[
+    {
+        "image": "../img/solana_vs_etherium.jpg",
+        "title":"Solana vs Ethereum: Which Is the Better to Invest in?",
+        "caption":  "Individuals will soon be able to carry out their monetary dealings in a way that is not only more efficient but also more secure.",
+        "type": "image",
+        "source_type": "link",
+        "source_link": "../Articles/solana_vs_ethereum_which_is_better.html",
+        "category": "Crypto/NFT"
+    
+    
+    },
+    {
     "image": "../img/should_you_invest_in_nft.png",
     "title":"Should You Invest in NFT? (Deep Dive on the Risks in 2023)",
     "caption":  "There are now some intriguing stocks available on the market.",

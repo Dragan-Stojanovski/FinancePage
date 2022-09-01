@@ -133,6 +133,8 @@ li.classList.add("linksNav")
 
 
 let crypto=[
+	{title:"Solana vs Ethereum",
+     direct:"solana_vs_ethereum_which_is_better.html"},
 	{title:"Should You Invest in Crypto? (Deep Dive on the Risks in 2022)",
      direct:"should_you_invest_in_crypto.html"},
 	 {title:"Should You Invest in NFT? (Deep Dive on the Risks in 2023)",
