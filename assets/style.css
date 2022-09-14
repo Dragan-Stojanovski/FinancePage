@@ -1055,7 +1055,17 @@ font-size:1.3rem;
 color:white;
 font-weight:700;
 }
+.marked-part{
+  background: none repeat scroll 0 0 #faede9;
+  padding:30px 30px;
+}
+.banner img{
+  width:60%;
+}
 @media only screen and (max-width: 600px) {
+  .banner img{
+    width:100%;
+  }
   .bottom-quote{
     font-size:1.6rem;
     line-height:2.3rem;
