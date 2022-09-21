@@ -1329,5 +1329,20 @@ line-height:180%;
     .blog-pattern-box{
       width:95%;
     }
-  
+    .hrefs-blog{
+      display:none;
+      align-items: center;
+      margin-top:20px;
+    }
+    .post-content h2{
+      font-size:30px;
+      line-height:40px;
+    }
+    .post-info h1{
+      font-size:35px;
+      line-height:40px;
+    }
+    .marked-part{
+      padding:15px 15px;
+    }
   }
