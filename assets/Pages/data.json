@@ -1,5 +1,14 @@
 [   
     {
+        "image": "../img/5_best_investing_newsletters.jpg",
+        "title":"5 Best Investing Newsletters: Think Like an Investor",
+        "caption": "About the best financial newsletters, offer advice on whether or not you should buy the stocks they recommend, and cover a lot more ground.",
+        "type": "image",
+        "source_type": "link",
+        "source_link": "../Articles/5_best_investing_newsletters_think_like_an_investor.html",
+        "category": "Education"
+    },
+    {
         "image": "../img/9_best_low_risk_investments_for_2022.jpg",
         "title":"9 Best Low Risk Investments For 2022",
         "caption": "The following investment opportunities present retirees with a favorable risk-return profile, and this is especially true when these options are integrated into a diversified investment portfolio:",
@@ -7,8 +16,6 @@
         "source_type": "link",
         "source_link": "../Articles/9_best_low_risk_investments_for_2022.html",
         "category": "Education"
-    
-    
     },
     {
         "image": "../img/how_to_start_an_investing_club.jpg",
