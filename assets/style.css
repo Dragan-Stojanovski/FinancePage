@@ -1062,6 +1062,10 @@ font-weight:700;
 .banner img{
   width:60%;
 }
+.logo-index-top h1{
+  font-size:3rem;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+}
 @media only screen and (max-width: 600px) {
   .banner img{
     width:100%;
