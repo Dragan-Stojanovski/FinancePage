@@ -1073,6 +1073,10 @@ font-weight:700;
   font-family:var(--font-primary);
 }
 
+.img p{
+  visibility:hidden;
+}
+
 @media only screen and (max-width: 600px) {
   .banner img{
     width:100%;
