@@ -1072,7 +1072,9 @@ font-weight:700;
   line-height:23px;
   font-family:var(--font-primary);
 }
-
+.card-container p{
+  display:none;
+}
 .img p{
   visibility:hidden;
 }
