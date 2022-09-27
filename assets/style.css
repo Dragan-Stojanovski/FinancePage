@@ -1066,6 +1066,13 @@ font-weight:700;
   font-size:3rem;
   font-family:Georgia, 'Times New Roman', Times, serif;
 }
+.logo-index-top p{
+  text-align:left;
+  font-size:18px;
+  line-height:23px;
+  font-family:var(--font-primary);
+}
+
 @media only screen and (max-width: 600px) {
   .banner img{
     width:100%;
